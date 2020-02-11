@@ -41,7 +41,9 @@ O objetivo principal deste projeto é ter uma primeira experiência desenvolvend
 aplicações web (WebApp) que interajam com o usuário através do navegador e
 desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
-Pense nos passos que o usuário tem que percorrer, repasse o fluxograma []() e se organize com sua dupla/trio.
+Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
+
+![fluxograma do projeto](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/Fluxo%20trivia%20Lab.png?token=AHWFOLQTFSWUXOM5VAPWSWK6IMHHO)
 
 ### HTML e CSS
 
@@ -75,6 +77,18 @@ Os critérios que você deverá considerar para saber se completou o projeto sã
 3. Mostrar, através de prompt,  a pergunta 1 com alternativas. O usuário responde e depois é
    apresentada a pergunta 2 e depois a 3.
 4. Mostrar uma tela de resultados (respostas corretas e incorretas).
+
+Seguem exemplos de tela. Você pode usar as cores e fontes que quiser e acrescentar detalhes, porém os seguintes aspectos do leiaute modelo devem ser mantidos:
+- O nome da pessoa deve ser impresso na tela;
+- As respostas corretas e erradas devem ser impressas na tela em caixas separadas, exibidas lado a lado.
+
+![tela 1](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%201.png?token=AHWFOLWH24DQMRJXESTXDSC6IMHK6)
+
+![tela 2](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%202.png?token=AHWFOLXGXWIFDECVQBOQTMS6IMHNQ)
+
+![tela 3](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%203.png?token=AHWFOLRSFOGC3HYJWGQHEWC6IMHO6)
+
+![tela 4](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%204.png?token=AHWFOLTEY3UGTZVN5S4QWES6IMHQA)
 
 ### Entrega
 
