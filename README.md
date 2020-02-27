@@ -43,7 +43,7 @@ desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
 Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
 
-![fluxograma do projeto](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/Fluxo%20trivia%20Lab.png?token=AHWFOLQTFSWUXOM5VAPWSWK6IMHHO)
+![fluxograma do projeto](https://user-images.githubusercontent.com/39506102/75469756-4fe67780-596e-11ea-9325-fc51d9a97248.png)
 
 ### HTML e CSS
 
@@ -82,13 +82,13 @@ Seguem exemplos de tela. Você pode usar as cores e fontes que quiser e acrescen
 - O nome da pessoa deve ser impresso na tela;
 - As respostas corretas e erradas devem ser impressas na tela em caixas separadas, exibidas lado a lado.
 
-![tela 1](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%201.png?token=AHWFOLWH24DQMRJXESTXDSC6IMHK6)
+![tela 1](https://user-images.githubusercontent.com/39506102/75469562-fe3ded00-596d-11ea-98e7-17b78d8f45d9.png)
 
-![tela 2](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%202.png?token=AHWFOLXGXWIFDECVQBOQTMS6IMHNQ)
+![tela 2](https://user-images.githubusercontent.com/39506102/75469606-101f9000-596e-11ea-838e-9bbdffd5ec8e.png)
 
-![tela 3](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%203.png?token=AHWFOLRSFOGC3HYJWGQHEWC6IMHO6)
+![tela 3](https://user-images.githubusercontent.com/39506102/75469610-1281ea00-596e-11ea-8e86-c0eb6e49e699.png)
 
-![tela 4](https://raw.githubusercontent.com/paclaraujo/SAP004-trivia/master/imgs/trivia%20-%204.png?token=AHWFOLTEY3UGTZVN5S4QWES6IMHQA)
+![tela 4](https://user-images.githubusercontent.com/39506102/75469625-16157100-596e-11ea-95e5-038e068af938.png)
 
 ### Entrega
 
