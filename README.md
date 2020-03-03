@@ -43,7 +43,7 @@ desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
 Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
 
-![fluxograma do projeto](https://user-images.githubusercontent.com/39506102/75469756-4fe67780-596e-11ea-9325-fc51d9a97248.png)
+![fluxograma do projeto](https://user-images.githubusercontent.com/32266030/75788882-9f9ab980-5d47-11ea-9512-1ffbbf10da9e.png)
 
 ### HTML e CSS
 
