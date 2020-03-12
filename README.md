@@ -21,10 +21,9 @@ A trivia é um tipo de jogo, geralmente presente em game shows, no qual são
 apresentadas perguntas cujas respostas devem ser escolhidas entre diferentes
 opções.
 
-Atualmente, com o aumento do uso de smartphones, suas aplicações e o acesso a
-Internet, existem muitas possibilidades de participar de um trivia online. Com uma
+Atualmente, com o aumento do uso de smartphones, suas aplicações e o acesso à internet, existem muitas possibilidades de participar de um trivia online. Com uma
 rápida busca na Internet, você verá que existem trivias de diferentes temas
-(ciência, televisão, séries, etc..). Existem vários que, inclusive, oferecem
+(ciência, televisão, séries, etc). Existem várias que, inclusive, oferecem
 dinheiro como recompensa.
 
 ![TRIVIA](https://phandroid.s3.amazonaws.com/wp-content/uploads/2018/01/hq-trivia-android-screenshot.jpg)
