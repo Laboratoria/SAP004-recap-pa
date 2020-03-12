@@ -31,27 +31,20 @@ dinheiro como recompensa.
 
 ## 2. Resumo do projeto
 
-O que tenho que fazer exatamente? Neste projeto você terá que construir uma
-aplicação web que permita que o usuário responda diferentes perguntas e escolha
-as respostas, a partir de uma lista de alternativas.
-
-O tema é livre. Você deve criar a melhor trivia possível e pensar em como deve
-ser a experiência de uso (telas, instruções para o usuário, mensagens, cores, etc).
+O que tenho que fazer exatamente? Neste projeto você dará continuidade a um projeto
+desenvolvido por algum dos membros da dupla. 
 
 ## 3. Objetivos de aprendizagem
 
-O objetivo principal deste projeto é ter uma primeira experiência desenvolvendo
-aplicações web (WebApp) que interajam com o usuário através do navegador e
-desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
-
-Reflita e depois enumere os objetivos que quer alcançar e aplique no seu
-projeto. Pense nisso para decidir sua estratégia de trabalho individual e em
-equipe.
+O objetivo principal deste projeto é ter uma primeira experiência com códigos
+já em andamento. Aqui o que esperamos é que você consiga compreender a importância
+de se escrever códigos limpos e legíveis, além de começar a se familiarizar a ler, interpretar
+e refatorar códigos.
 
 ### HTML e CSS
 
 * [ ] Entender e reconhecer a importância do HTML semântico.
-* [ ] O que são tags de formulário, como `<form>` e `<input>`, e como utilizá-las.
+* [ ] O que são tags de formulário, como `<form>` e `<input>`, e como utilizá-las (caso o projeto esteja finalizado).
 * [ ] Identificar e entender tipos de seletores em CSS.
 
 ### DOM
@@ -66,7 +59,8 @@ equipe.
 * [ ] Entender o uso de condicionais.
 * [ ] Utilizar funções.
 * [ ] Conhecer a diferença entre os distintos tipos de variáveis.
-* [ ] Como vincular funções JS à ações feitas no HTML através do atributo `onclick`. 
+* [ ] Como vincular funções JS à ações feitas no HTML através do atributo `onclick` 
+(caso o projeto já esteja finalizado). 
 
 ### Boas práticas de desenvolvimento
 
@@ -81,16 +75,8 @@ equipe.
 
 Os critérios que você deverá considerar para saber se completou o projeto são:
 
-### Desenho da interface de usuário
-
-Com lápis e papel, façam um rascunho da interface planejada para este projeto: aparência e localização dos inputs e botões, caixas, imagens e etc. Pensem no fluxo que o usuário vai percorrer: onde vai clicar primeiro, o que ele espera que aconteça, etc.
 
 ### Implementação da Interface de Usuário (HTML/CSS/JS)
-
-Depois de desenhar sua interface de usuário, você deverá trabalhar em sua
-implementação. **Não** é necessário que construa a interface exatamente como a
-desenhou. Você não tem um tempo ilimitado para trabalhar, sendo assim, deverá
-saber o que priorizar.
 
 O [MVP](https://www.youtube.com/watch?v=0Dn-BHj6l2E) (produto mínimo viável) de
 sua aplicação deve:
@@ -106,7 +92,7 @@ sua aplicação deve:
     - Jogar com perguntas do tipo A (Por exemplo: sobre comida)
     - Jogar com perguntas do tipo B (Por exemplo: sobre cervejas)
 
-5. A dupla/trio deverá subir o código para o GitHub e implementar a interface usando GitHub pages.
+## 5. A dupla/trio deverá subir o código para o GitHub e implementar a interface usando GitHub pages.
 
 ## 6. Hacker edition
 
@@ -124,38 +110,9 @@ JavaScript](https://medium.com/laboratoria-how-to/vanillajs-vs-jquery-31e623bbd4
 
 Não deve ser usada a _pseudo-variável_ `this`.
 
-### `src/index.html`
-
-Aqui vai a página que será mostrada para o usuário. Também nos serve para
-indicar que script será usado e unir tudo que fizemos.
-
-Você encontrará uma tag inicial que pode ser apagada, caso queira, para começar
-do zero.
-
-```html
- <div id="root"></div>
-```
-
-### `src/style.css`
-
-Este arquivo deve conter as regras de estilo. Queremos que escreva suas próprias
-regras, por isso NÃO está permitido o uso de frameworks de CSS (Bootstrap,
-Materialize, etc).
-
-### `src/main.js`
-
-Aqui você escreverá todo o código que tenha a ver com a interação com o DOM
-(selecionar, atualizar e manipular elementos do DOM e eventos), entre outras
-funções que sejam necessárias para atualizar o resultado na tela (UI).
-
 ## 8. Guias, dicas e leituras complementares
 
 ### Recursos e temas relacionados
-
-#### Desenho de experiência de usuário (User Experience Design)
-
-* Ideação
-* Protótipo (sketching)
 
 #### Desenvolvimento Front-end
 
