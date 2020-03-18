@@ -2,42 +2,25 @@
 
 ## Índice
 
-* [1. Preâmbulo](#1-preâmbulo)
-* [2. Resumo do projeto](#2-resumo-do-projeto)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-* [4. Considerações gerais](#4-considerações-gerais)
-* [5. Critérios de aceitação mínima do
+* [1. Resumo do projeto](#2-resumo-do-projeto)
+* [2. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
+* [3. Critérios de aceitação mínima do
   projeto](#5-critérios-de-aceitação-mínima-do-projeto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Considerações técnicas](#7-considerações-técnicas)
-* [8. Guias, dicas e leituras
+* [4. Hacker edition](#6-hacker-edition)
+* [5. Considerações técnicas](#7-considerações-técnicas)
+* [6. Guias, dicas e leituras
   complementares](#8-guias-dicas-e-leituras-complementares)
 
 ***
 
-## 1. Preâmbulo
+## 1. Resumo do projeto
 
-A trivia é um tipo de jogo, geralmente presente em game shows, no qual são
-apresentadas perguntas cujas respostas devem ser escolhidas entre diferentes
-opções.
+O que tenho que fazer exatamente? Neste projeto você dará continuidade ao projeto desenvolvido na Pré-Admissão. 
 
-Atualmente, com o aumento do uso de smartphones, suas aplicações e o acesso a
-Internet, existem muitas possibilidades de participar de um trivia online. Com
-uma rápida busca na Internet, você verá que existem trivias de diferentes temas
-(ciência, televisão, séries, etc..). Existem vários que, inclusive, oferecem
-dinheiro como recompensa.
-
-![TRIVIA](https://phandroid.s3.amazonaws.com/wp-content/uploads/2018/01/hq-trivia-android-screenshot.jpg)
-
-## 2. Resumo do projeto
-
-O que tenho que fazer exatamente? Neste projeto você dará continuidade a um projeto
-desenvolvido por algum dos membros da dupla. 
-
-## 3. Objetivos de aprendizagem
+## 2. Objetivos de aprendizagem
 
 O objetivo principal deste projeto é ter uma primeira experiência com códigos
-já em andamento. Aqui o que esperamos é que você consiga compreender a importância
+já iniciados. Aqui o que esperamos é que você consiga compreender a importância
 de se escrever códigos limpos e legíveis, além de começar a se familiarizar a ler, interpretar
 e refatorar códigos.
 
@@ -66,15 +49,9 @@ e refatorar códigos.
 
 * [ ] Utilizar identificadores descritivos (Nomenclatura | Semântica).
 
-## 4. Considerações gerais
-
-* Este projeto deve ser resolvido em duplas/trios.
-* Tempo para implementá-lo: Teremos 1 dia e meio previstos para trabalhar neste projeto; a dupla/trio deve se organizar e priorizar as tarefas para implementar o máximo possível neste tempo.
-
-## 5. Critérios mínimos de aceitação do projeto
+## 3. Critérios mínimos de aceitação do projeto
 
 Os critérios que você deverá considerar para saber se completou o projeto são:
-
 
 ### Implementação da Interface de Usuário (HTML/CSS/JS)
 
@@ -92,9 +69,9 @@ sua aplicação deve:
     - Jogar com perguntas do tipo A (Por exemplo: sobre comida)
     - Jogar com perguntas do tipo B (Por exemplo: sobre cervejas)
 
-## 5. A dupla/trio deverá subir o código para o GitHub e implementar a interface usando GitHub pages.
+## Você pode subir o código para o GitHub e implementar a interface usando GitHub pages.
 
-## 6. Hacker edition
+## 4. Hacker edition
 
 Se **terminou** tudo que foi listado anteriormente e ainda te sobrou tempo,
 tente explorar e completar o seguinte:
@@ -102,7 +79,7 @@ tente explorar e completar o seguinte:
 * Adicionar uma contagem regressiva que determine um tempo limite para responder
   cada pergunta.
 
-## 7. Considerações técnicas
+## 5. Considerações técnicas
 
 A lógica do projeto deve estar implementada completamente em JS, HTML e CSS.
 Neste projeto não é permitido usar bibliotecas ou frameworks, somente [vanilla
@@ -110,7 +87,7 @@ JavaScript](https://medium.com/laboratoria-how-to/vanillajs-vs-jquery-31e623bbd4
 
 Não deve ser usada a _pseudo-variável_ `this`.
 
-## 8. Guias, dicas e leituras complementares
+## 6. Guias, dicas e leituras complementares
 
 ### Recursos e temas relacionados
 
