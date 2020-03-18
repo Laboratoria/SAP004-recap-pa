@@ -15,7 +15,7 @@
 
 ## 1. Resumo do projeto
 
-O que tenho que fazer exatamente? Neste projeto você dará continuidade ao projeto desenvolvido na Pré-Admissão. 
+O que tenho que fazer exatamente? Neste projeto você dará continuidade ao projeto desenvolvido na Pré-Admissão. Caso não tenha  conseguido finalizar o projeto, você deve implementar o que faltou. Você pode acessar os requisitos neste repositório: [Projeto Pré-Admissão](https://github.com/Laboratoria/SAP004-projeto-pa/blob/master/README.md). Caso tenha conseguido finalizar, neste README te damos alguma opções de refatoração do projeto. 
 
 ## 2. Objetivos de aprendizagem
 
